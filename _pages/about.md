@@ -29,4 +29,4 @@ In 2019, he was awarded the prestigious [Marie Skłodowska-Curie Fellowship](htt
 
 He has been a reviewer/PC/TPC member and co-chair for several top conferences/workshops, including ACL, EMNLP, IJCAI, ECAI, ECML-PKDD, ACM-SAC, DSAA, ICASSP and several high-impact journals from Elsevier, IEEE, Springer, and MDPI. Dr. Kumar is also a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE) and a fellow of the Soft Computing Research Society (SCRS). He is also a member of the International Neural Network Society (INNS) and the International Association of Engineers (IAENG). Dr. Kumar is a seasoned speaker and has delivered several keynote and technical talks. 
 
-📚 🎨 🌍 Outside of research, you'll most likely find me lost in extreme sports (Skydiving, bungee jumping) or exploring new places, whether it's nearby or halfway across the world.
+📚 🪂 🤿 🌍 Outside of research, you'll most likely find me lost in extreme sports (Skydiving, bungee jumping) or exploring new places, whether it's nearby or halfway across the world.
