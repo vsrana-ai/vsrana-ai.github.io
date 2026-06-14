@@ -3,21 +3,21 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.adaptcentre.ie" target="_blank">ADAPT Centre, Trinity College Dublin</a> &nbsp;·&nbsp;
-  <a href="https://www.unibw.de" target="_blank">University of Federal Armed Forces Munich</a><br>
-  Marie Skłodowska-Curie Fellow &nbsp;·&nbsp; SMIEEE &nbsp;·&nbsp; Fellow-SCRS
+  <a href=" " target="_blank">SMIEEE</a> &nbsp;·&nbsp;
+  <a href="https://scrs.in/scrs-fellow/614" target="_blank">Fellow-SCRS</a><br>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p><b>Research Scientist (Fellow)</b></p>
-    <p>ADAPT Centre · Trinity College Dublin</p>
-    <p>Senior Researcher · UniBwM, Germany</p>
-    <p>📧 <a href="mailto:kumarv4@tcd.ie">kumarv4@tcd.ie</a></p>
-    <p>📧 <a href="mailto:vivekkumar0416@gmail.com">vivekkumar0416@gmail.com</a></p>
-
+  more_info: >
+more_info: >
+    <p style="text-align:center"><b> Research Scientist</b></p>
+    <p style="text-align:center">Trinity College Dublin</p>
+    <p style="text-align:center">📧 <a href="mailto:kumarv4@tcd.ie">kumarv4@tcd.ie</a></p>
+    <p style="text-align:center">📧 <a href="mailto:vivekkumar0416@gmail.com">vivekkumar0416@gmail.com</a></p>
+    
 news: true
 selected_papers: true
 social: true
