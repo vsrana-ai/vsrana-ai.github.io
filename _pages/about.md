@@ -11,8 +11,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-  more_info: >
-more_info: >
     <p style="text-align:center"><b> Research Scientist</b></p>
     <p style="text-align:center">Trinity College Dublin</p>
     <p style="text-align:center">📧 <a href="mailto:kumarv4@tcd.ie">kumarv4@tcd.ie</a></p>
