@@ -2,14 +2,15 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+
 email: kumarv4@tcd.ie
-scholar_userid: A6A4OKoAAAAJ
-orcid_id: 0000-0003-3958-4704
-linkedin_username: vivek-kumar-singh-ph-d-44011683
-github_username: vsrana-ai
-research_gate_profile: Vivek_Kumar227
-scopus_id: 57203288774
-semantic_scholar_id: 2217152922
+scholar_userid: "A6A4OKoAAAAJ"
+orcid_id: "0000-0003-3958-4704"
+linkedin_username: "vivek-kumar-singh-ph-d-44011683"
+github_username: "vsrana-ai"
+research_gate_profile: "Vivek_Kumar227"
+scopus_id: "57203288774"
+semantic_scholar_id: "2217152922"
 rss_icon: true
 
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
