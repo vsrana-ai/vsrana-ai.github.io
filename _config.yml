@@ -5,7 +5,15 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Vivek
 middle_name: 
+# new added by me -------------
 last_name: Kumar (PhD)
+scholar_userid: A6A4OKoAAAAJ
+orcid_id: 0000-0003-3958-4704
+linkedin_username: vivek-kumar-singh-ph-d-44011683
+github_username: vsrana-ai
+research_gate_profile: Vivek_Kumar227
+# -------------
+
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
