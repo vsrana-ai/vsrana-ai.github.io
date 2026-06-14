@@ -2,36 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <a href="https://www.adaptcentre.ie" target="_blank">ADAPT Centre, Trinity College Dublin</a> &nbsp;·&nbsp;
+  <a href="https://www.unibw.de" target="_blank">University of Federal Armed Forces Munich</a><br>
+  Marie Skłodowska-Curie Fellow &nbsp;·&nbsp; SMIEEE &nbsp;·&nbsp; Fellow-SCRS
 
 profile:
   align: right
-  image: prof_pic.jpeg
-  image_circular: true # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: true
   more_info: >
-    <p>SMIEEE, Fellow-SCRS</p>
-    <p>Email: 📧 vivekkumar0416@gmail.com</p>
-    <p>📧 kumarv4@tcd.ie</p>
-   #<p>555 your office number</p>
-   #<p>123 your address street</p>
-   #<p>Your City, State 12345</p>
+    <p><b>Research Scientist (Fellow)</b></p>
+    <p>ADAPT Centre · Trinity College Dublin</p>
+    <p>Senior Researcher · UniBwM, Germany</p>
+    <p>📧 <a href="mailto:kumarv4@tcd.ie">kumarv4@tcd.ie</a></p>
+    <p>📧 <a href="mailto:vivekkumar0416@gmail.com">vivekkumar0416@gmail.com</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Scientist (Fellow) at the [ADAPT Research Centre, Trinity College Dublin](https://www.adaptcentre.ie), and a Senior Researcher at the [University of Federal Armed Forces Munich (UniBwM)](https://www.unibw.de), Germany. I coordinated [STELAR](https://stelar-project.eu/), an EU Horizon Project on AI, Data Spaces, and Robotics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2019, I was awarded the prestigious [Marie Skłodowska-Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/) under the EU Horizon 2020 ITN network [PhilHumans](https://philhumans.eu/), during which I worked at [Philips Research](https://www.philips.com/a-w/research.html) (Netherlands) and the [University of Cagliari](https://www.unica.it/) (Italy). Prior to this, I served as a Research Engineer on the [SHiP experiment](https://ship.web.cern.ch/) at CERN/NUST-MiSiS, Moscow, and as a Science & Technology Attaché at the Embassy of India, Moscow.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, **AI Bias & Fairness**, **Mental Health AI**, **Knowledge Graph Augmentation**, and **Domain Adaptation**. I am passionate about building robust, equitable, and human-centred AI systems for real-world societal and healthcare applications.
+
+I am a **Senior Member of IEEE (SMIEEE)**, Fellow of SCRS, and a member of INNS and IAENG. I serve as a reviewer and PC/TPC member for leading venues including ACL, EMNLP, ECAI, ECML-PKDD, ICASSP, IJCNN, and high-impact journals from Elsevier, Springer, and IEEE.
